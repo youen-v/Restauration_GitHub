@@ -30,9 +30,9 @@ Votre objectif à présent est de faire de ce point de sauvegarde une nouvelle b
 
 Télécharger le ZIP du commit souhaiter
 
-![Screenshot Browse](Browse1.jpg)  
+![Screenshot Browse](downloadZip.jpg)  
 
 Retourner sur la branch main, cliquer sur Add Files puis sur Upload Files
 transferer tous les fichiers du dossier zip et envoyer le commit
 
-![Screenshot Browse](Browse1.jpg)  
+![Screenshot Browse](uploadCommit.jpg)  
